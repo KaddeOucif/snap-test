@@ -161,6 +161,15 @@
                                         "targetPath": {
                                             "value": "$name"
                                         }
+                                    },
+                                    {
+                                        "expression": {
+                                            "expression": true,
+                                            "value": "parseInt(30)"
+                                        },
+                                        "targetPath": {
+                                            "value": "$age"
+                                        }
                                     }
                                 ]
                             }
