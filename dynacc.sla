@@ -1,0 +1,31 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restdynamicoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "ConnectFasterInc"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "dynacc"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "expression": false,
+                "fp": "f7c9bca3cdb1d909994d00c87d300e1b5c16ef6881068c031269b72e8ba6d463",
+                "key": "account-cloud-managed-5592aed995315c0d2e1aaeeb-2015-06-30T14:59:59-654446",
+                "sym_iv": "LwPxcTEbKr5EFFgNNa3N3A==",
+                "sym_key": "BwT6bpplgqkp6kC5U+h2PEUPP2xnUrfTBqkKlT11PgL5WCoIK5dhygEnGVXymN+W1ckLWv0sQTcdxujftccErm6O74Lsp/o+hrYyQdTurvRPOmlpDB+QVFnoJTnPN57sXrkY+RGQs584JvL5Vy4/LpFpEFUE9yWP4IxuuLlH5kbX/VT2BhWWm4/SQLoHnxY5xmZ/TVc2ehuKiIH7NcAUDVv4EOcDdlHbcYQZJATRsz0GX5A0mCZJ6CN27DSuwIyYlJZpWW5J8qmaUVai+KJw+FIaqaZVdYNz6jHl457iRRIqamaBhsm/axqt1ZqUIw5hCrjd4Rx1q7f35ygPIlVYyA==",
+                "value": "8s+CHywXJ6y7HH0Hayqu4A=="
+            },
+            "headerAuth": {
+                "value": true
+            }
+        },
+        "view_serial": 100
+    }
+}
