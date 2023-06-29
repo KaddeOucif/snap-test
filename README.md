@@ -1,2 +1,2 @@
 # snap-test
-Showcasing version control in SnapLogic
+Showcasing version control in SnapLogic!
