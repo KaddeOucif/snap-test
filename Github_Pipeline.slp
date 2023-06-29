@@ -67,7 +67,7 @@
         "detail_map": {
             "11111111-1111-1111-1111-000000000000": {
                 "error": {},
-                "grid_x_int": 5,
+                "grid_x_int": 2,
                 "grid_y_int": 1,
                 "index": null,
                 "input": {},
@@ -165,7 +165,7 @@
                                     {
                                         "expression": {
                                             "expression": true,
-                                            "value": "parseInt(40)"
+                                            "value": "parseInt(22)"
                                         },
                                         "targetPath": {
                                             "value": "$age"
